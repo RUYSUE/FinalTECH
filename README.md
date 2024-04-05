@@ -56,3 +56,7 @@ It's welcome to report bug here <https://github.com/ecro-fun/FinalTECH/issues>.
 ## Discord
 
 You can share fun ideas here https://discord.gg/K5rEu4gHm5
+
+## 我的修改
+
+添加了中文翻译（欢迎指正）
