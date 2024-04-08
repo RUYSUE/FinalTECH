@@ -166,27 +166,22 @@ helper:
       name: '{color:normal}容器搜索顺序{color:conceal} - {color:random}顺序'
       lore:
       - '{color:normal}从前向后使用{color:stress}容器搜索范围{color:normal}中的结果'
-      - '{color:normal}使用：抓取或推送（左侧为抓取，右侧为推送）'
     descend:
       name: '{color:normal}容器搜索顺序{color:conceal} - {color:random}逆序'
       lore:
       - '{color:normal}从后向前使用{color:stress}容器搜索范围{color:normal}中的结果'
-      - '{color:normal}使用：抓取或推送（左侧为抓取，右侧为推送）'
     first-only:
       name: '{color:normal}容器搜索顺序{color:conceal} - {color:random}仅首格'
       lore:
       - '{color:normal}仅使用{color:stress}容器搜索范围{color:normal}中的第一格结果'
-      - '{color:normal}使用：抓取或推送（左侧为抓取，右侧为推送）'
     last-only:
       name: '{color:normal}容器搜索顺序{color:conceal} - {color:random}仅末格'
       lore:
       - '{color:normal}仅使用{color:stress}容器搜索范围{color:normal}中的最后一格结果'
-      - '{color:normal}使用：抓取或推送（左侧为抓取，右侧为推送）'
     random:
       name: '{color:normal}容器搜索顺序{color:conceal} - {color:random}随机'
       lore:
       - '{color:normal}随机使用{color:stress}容器搜索范围{color:normal}中的结果'
-      - '{color:normal}使用：抓取或推送（左侧为抓取，右侧为推送）'
   BLOCK_SEARCH_MODE:
     zero:
       name: '{color:normal}方块搜索模式{color:conceal} - {color:random}零'
